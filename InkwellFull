@@ -1,0 +1,8 @@
+InkWell(
+  onTap: () {
+    // Handle tap event
+  },
+  splashColor: Colors.transparent, // Set splash color to transparent
+  highlightColor: Colors.transparent, // Set highlight color to transparent
+  child: YourChildWidget(),
+)
